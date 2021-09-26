@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Software Engineering Intern, Alexa Knowledge Group
+    company: Amazon
+    company_url: 'https://www.amazon.co.uk/'
+    company_logo: amazon
+    location: Cambridge
+    date_start: '2020-06-01'
+    date_end: '2020-09-01'
+    description: Worked in the Alexa Federation team, evaluating and ranking the quality of natural language answers from Alexa answer providers.
+
+  - title: Software Engineering Intern, Machine Learning Group
+    company: Arm
+    company_url: 'https://www.arm.com/'
+    company_logo: arm
+    location: Cambridge
+    date_start: '2019-06-01'
+    date_end: '2019-09-01'
     description: |2-
-        Responsibilities include:
+        Worked on ArmNN and Compute Library, open-source neural network inference engines optimising performance on Arm CPUs, GPUs and NPUs.
         
-        * Analysing
-        * Modelling
-        * Deploying
+        See my <a href="https://github.com/ARM-software/armnn/commits?author=matjac02" target="_blank">ArmNN contributions</a>.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Software Engineering Intern
+    company: Cubica Technology
+    company_url: 'https://www.cubicatechnology.co.uk/'
+    company_logo: cubica
+    location: Woking
+    date_start: '2018-07-01'
+    date_end: '2018-09-01'
+    description: Worked on an individual project, developing a script to identify and track reoccurring identities across videos using facial detection and recognition models.
 
 design:
   columns: '2'
