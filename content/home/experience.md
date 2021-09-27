@@ -29,7 +29,7 @@ experience:
     location: Cambridge
     date_start: '2020-06-01'
     date_end: '2020-09-01'
-    description: Worked in the Alexa Federation team, evaluating and ranking the quality of natural language answers from Alexa answer providers.
+    description: Worked in the Alexa Federation team, evaluating and ranking the quality of natural language answers returned by Alexa answer providers.
 
   - title: Software Engineering Intern, Machine Learning Group
     company: Arm
