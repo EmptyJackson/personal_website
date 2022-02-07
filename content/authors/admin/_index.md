@@ -22,7 +22,8 @@ bio: Oxford DPhil candidate, interested in creating generalizable agents for rea
 interests:
 - Reinforcement Learning
 - Meta Learning
-- Multi-Agent Environments
+- Open-Ended Learning and AI-GAs
+- Computational Neuroscience
 
 # Education to show in About widget
 education:
@@ -75,6 +76,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a DPhil student in the {{< staticref "https://aims.robots.ox.ac.uk/" "newtab" >}}Autonomous Intelligent Machines and Systems (AIMS) CDT{{< /staticref >}} at the University of Oxford. I previously completed an MSc in Machine Learning at University College London, where I worked in the {{< staticref "https://dark.cs.ucl.ac.uk/" "newtab" >}}UCL DARK Lab{{< /staticref >}} with {{< staticref "https://rockt.github.io/" "newtab" >}}Tim Rocktäschel{{< /staticref >}} and {{< staticref "https://www.egrefen.com/" "newtab" >}}Edward Grefenstette{{< /staticref >}} on model-based meta-reinforcement learning. Before this, I graduated with a BA in Computer Science from the University of Cambridge, achieving First-Class Honours and 86% overall.
+I'm a first-year DPhil student in the {{< staticref "https://aims.robots.ox.ac.uk/" "newtab" >}}Autonomous Intelligent Machines and Systems CDT{{< /staticref >}} at the University of Oxford. 
+
+I hold an MSc in Machine Learning from University College London, where I worked in the {{< staticref "https://dark.cs.ucl.ac.uk/" "newtab" >}}UCL DARK Lab{{< /staticref >}} on self-supervision in meta-reinforcement learning. Before this, I gained a BA in Computer Science from the University of Cambridge, where I worked on real-time video super-resolution.
+
+I've completed software engineering internships at Amazon, Arm and Cubica Technology, working on natural language processing, computer vision and efficient network inference.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
