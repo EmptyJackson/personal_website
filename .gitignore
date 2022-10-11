@@ -8,3 +8,4 @@ jsconfig.json
 node_modules/
 
 *.DS_store
+*.icloud
